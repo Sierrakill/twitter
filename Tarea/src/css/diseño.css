@@ -1,0 +1,87 @@
+body{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-color: #15202b;
+    
+}
+.contenedor{
+    float:left;
+    background: url('../img/recorte.PNG')#15202b;
+    height: 840px;
+    width: 540px;
+}
+.left{
+    width: 40%;
+    float: left;
+    padding: 75px 30px;
+}
+.left i{
+    color: #fff;
+}
+.left h1{
+    margin-top: 45px;
+    text-align: center;
+    align-items: center;
+    font-size: 60px;
+    margin-left: -50px;
+    word-spacing: 3px;
+    color: #fff;
+    font-family: 'Lato', sans-serif;
+    white-space: inherit;
+}
+.left h2{
+    margin-top: -15px;
+    align-items: flex-start;
+    font-size: 35px;
+    word-spacing: 4px;
+    color: #fff;
+    font-family:  'lato', sans-serif;
+    white-space: inherit;
+    margin-left: 5px;
+}
+.unirse{
+   
+    display: inline-block;
+    width: 70%;
+    padding: 10px;
+    
+}
+.unirse a{
+    border-radius: 5px;
+    padding: 13px 100px;
+    height: 1.3rem;
+    border: 0;
+    background-color: #1da1f2;
+    border-radius: 50px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #fff;
+    
+    text-align: center;
+    display: block;
+    font-family:  'lato', sans-serif;
+}
+
+.login{
+   
+    display: inline-block;
+    width: 70%;
+    padding: 10px;
+}
+.login a{
+    border-radius: 5px;
+    padding: 13px 100px;
+    height: 1.3rem;
+    border: 0;
+    background-color: #15202b;
+    border: 1px solid #1da1f2;
+    border-radius: 50px;
+    font-weight: bolder;
+    text-decoration: none;
+    color: #1da1f2;
+    text-align: center;
+    display: block;
+    font-family:  'lato', sans-serif;
+}
+
